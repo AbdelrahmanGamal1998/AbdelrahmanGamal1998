@@ -10,7 +10,7 @@
 ![ISTQB](https://img.shields.io/badge/6x%20ISTQB-certified-006ec0?style=for-the-badge)
 ![Load](https://img.shields.io/badge/JMeter-up%20to%208%2C000%20users-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Coverage](https://img.shields.io/badge/90%25-E2E%20automation%20coverage-34A853?style=for-the-badge)
-![Regression](https://img.shields.io/badge/-80%25%20regression%20time-34A853?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression%20time-up%20to%20--80%25-34A853?style=for-the-badge)
 
 ---
 
