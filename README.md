@@ -71,6 +71,8 @@ Public portfolio projects on open demo sites and APIs. Each one builds, runs in 
 | [dummyjson-api-automation-apidog](https://github.com/AbdelrahmanGamal1998/dummyjson-api-automation-apidog) | A second Apidog suite with reports |
 | [healthcare-platform-graduation-project](https://github.com/AbdelrahmanGamal1998/healthcare-platform-graduation-project) | Graduation project: Node, React, MongoDB, WebRTC and an Arduino device |
 
+Also: contributor to Giza Systems' SHAFT + Page Object training framework for the Automation Exercise site (40 commits in a team of about 20 testers). The code is the company's, so it is not published here.
+
 The other repositories are cleaned-up university work: algorithms, cryptography, operating systems, distributed systems and AI.
 
 ---
